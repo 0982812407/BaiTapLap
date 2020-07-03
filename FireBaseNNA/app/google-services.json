@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "318355047177",
+    "firebase_url": "https://dangkyfirebase-bdcfa.firebaseio.com",
+    "project_id": "dangkyfirebase-bdcfa",
+    "storage_bucket": "dangkyfirebase-bdcfa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318355047177:android:8f4f3036029ada8a3809d8",
+        "android_client_info": {
+          "package_name": "com.example.firebasenna"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318355047177-ooo481lev0fs63fb9krc4gnbpmh38cm9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6Qe6dRTLqwRI8ok0z24-NgQBW3bhAxP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318355047177-ooo481lev0fs63fb9krc4gnbpmh38cm9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

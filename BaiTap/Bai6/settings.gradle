@@ -1,0 +1,2 @@
+rootProject.name='Bai6'
+include ':app'
